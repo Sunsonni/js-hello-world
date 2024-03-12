@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Spare change?");
+console.log("Hello World");//does not work without parentheses
+console.log('Wassup');//Quotations need to be there but single and double parentheses seem to work the same
+console.log('Ello')//the code seems to still work without a semicolin
+console.log(3+5);
+console.log("what's funnier than 24?"); console.log("2"+"5"); 
+console.log("what" +" is"+" up");
+console.log('The raven "Nevermore"');
+console.log("What's two plus two?"); console.log("4");
 
 /*  
 Next, PLAY! 
